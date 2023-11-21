@@ -1,6 +1,31 @@
 # Kafka-Airflow-Docker Projesi
 
-Bu proje, Apache Kafka, Apache Airflow ve Docker kullanarak yapılan bir sistemdir. CSV dosyasından veri alınarak Kafka topic'ine yazılır. Oradanda Kafka Consumer ile veritabanında staging katmanına aktarılır. Staging katmanından Kafka Producer ile veriler başka bir topice aktarılır. Kafka Consumer ile topicten alınan veriler sonrasında yıllara göre ayrıştırılır, belirli bir koşulu sağlayan veriler kontrol edilidikten sonra gelen veriler içindeki farklı yıllara göre ayrılır ve  her veri kendi yılının olduğu tabloya yazılır.
+# Kafka-Airflow-Docker Veri İşleme Projesi
+
+Bu proje, Apache Kafka, Apache Airflow ve Docker kullanarak geliştirilen bir veri işleme sistemini içerir. CSV dosyalarından alınan veriler, Kafka'nın topic yapısıyla aktarılır. Daha sonrasında veriler işlenmesi için tekrar farklı bir topice yazılır ve işlenir. İşlenen veriler, farklı yıllara göre ayrıştırılır ve belirli koşulları sağlayan verilerin kontrolü yapılıp, sonuçları farklı tablolara kaydedilir. Apache Airflow burada sadece schedular için kullanılımştır.
+
+## Proje Amaçları
+
+- **Veri Akışı:** CSV dosyalarından gelen veriler, Kafka topic'lerine aktarılır ve Kafka Consumer ile bu veriler veritabanına aktarılır.
+- **İşleme ve Ayrıştırma:** Veritabanına aktarılan veriler yıllara göre ayrıştırılır ve koşulları sağlayan veriler kontrol edilir.
+- **Tablo Oluşturma ve Veri Aktarımı:** Yıllara göre ayrılan veriler, farklı tablolar oluşturularak her bir yılın verileri ayrı ayrı kaydedilir.
+
+## Proje Adımları
+
+1. **Veri Toplama ve Aktarımı:**
+   - CSV dosyalarından gelen veriler, Kafka topic'lerine yazılır.
+   - Kafka Consumer ile bu veriler, veritabanının staging katmanına aktarılır.
+
+2. **Veri İşleme ve Ayrıştırma:**
+   - Veritabanındaki veriler, farklı bir topice aktarılır.
+   - Kafka Consumer ile bu veriler alınır ve işlenir.
+   
+
+3. **Tablo Oluşturma ve Veri Kaydetme:**
+   - İşlenmiş veriler, farklı yıllara ait tablolara yazılır.
+   - Her bir tablo, yıl bazında veri saklamak üzere tasarlanmıştır.
+
+
 
 ![proje_akis drawio](https://github.com/afaruksargin/DataPipelineWithDockerAirflowKafka/assets/114520791/74263d27-2f8a-4dd5-a17e-ff1ebcbf5c61)
 
