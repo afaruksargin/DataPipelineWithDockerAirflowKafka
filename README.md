@@ -47,4 +47,5 @@ Bu proje, Apache Kafka, Apache Airflow ve Docker kullanarak yapılan bir sistemd
 ## Kullanım
 
 1. Airflow arayüzünden DAG'ı çalıştırın. Bu DAG, Kafka'dan verileri çeker ve veritabanına yazar.
+2. Dizinde yer alan log kayıtlarını inceleyebilirsiniz.
 
