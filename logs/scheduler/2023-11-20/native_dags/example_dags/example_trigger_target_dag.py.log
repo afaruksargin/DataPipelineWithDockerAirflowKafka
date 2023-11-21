@@ -1,0 +1,84 @@
+[2023-11-20T15:20:09.059+0300] {processor.py:157} INFO - Started process (PID=34335) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:20:09.060+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:20:09.061+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:09.060+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:20:09.068+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:20:09.074+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:09.073+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:20:09.084+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:09.084+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:20:09.105+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.048 seconds
+[2023-11-20T15:20:56.790+0300] {processor.py:157} INFO - Started process (PID=34790) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:20:56.792+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:20:56.793+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:56.793+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:20:56.801+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:20:56.817+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:56.816+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:20:56.826+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:56.825+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:20:56.847+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.061 seconds
+[2023-11-20T15:21:27.022+0300] {processor.py:157} INFO - Started process (PID=35900) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:21:27.025+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:21:27.026+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:27.025+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:21:27.033+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:21:27.039+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:27.039+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:21:27.050+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:27.050+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:21:27.067+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.048 seconds
+[2023-11-20T15:22:13.588+0300] {processor.py:157} INFO - Started process (PID=36180) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:22:13.590+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:22:13.591+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:13.590+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:22:13.597+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:22:13.610+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:13.610+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:22:13.620+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:13.620+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:22:13.640+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.054 seconds
+[2023-11-20T15:22:59.144+0300] {processor.py:157} INFO - Started process (PID=36605) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:22:59.147+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:22:59.149+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:59.148+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:22:59.158+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:22:59.175+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:59.174+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:22:59.183+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:59.183+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:22:59.224+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.089 seconds
+[2023-11-20T15:23:47.644+0300] {processor.py:157} INFO - Started process (PID=37062) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:23:47.645+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:23:47.645+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:47.645+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:23:47.649+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:23:47.660+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:47.660+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:23:47.669+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:47.669+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:23:47.687+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.045 seconds
+[2023-11-20T15:24:39.842+0300] {processor.py:157} INFO - Started process (PID=37706) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:24:39.846+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:24:39.849+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:39.848+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:24:39.860+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:24:39.877+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:39.876+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:24:39.886+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:39.886+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:24:39.919+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.084 seconds
+[2023-11-20T15:24:59.424+0300] {processor.py:157} INFO - Started process (PID=38653) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:24:59.427+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:24:59.428+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:59.428+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:24:59.443+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:24:59.451+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:59.451+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:24:59.467+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:59.467+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:24:59.502+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.083 seconds
+[2023-11-20T15:27:19.744+0300] {processor.py:157} INFO - Started process (PID=4888) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:27:19.746+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:27:19.746+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:19.746+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:27:19.754+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:27:19.759+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:19.759+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:27:19.769+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:19.769+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:27:19.786+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.045 seconds
+[2023-11-20T15:28:05.897+0300] {processor.py:157} INFO - Started process (PID=5200) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:28:05.900+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:28:05.901+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:05.900+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:28:05.906+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:28:05.918+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:05.918+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:28:05.926+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:05.926+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:28:05.943+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.049 seconds
+[2023-11-20T15:28:49.962+0300] {processor.py:157} INFO - Started process (PID=5507) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:28:49.964+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:28:49.966+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:49.965+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:28:49.972+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:28:49.983+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:49.982+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:28:49.991+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:49.991+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:28:50.008+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.049 seconds
+[2023-11-20T15:36:07.111+0300] {processor.py:157} INFO - Started process (PID=6895) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:36:07.117+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-11-20T15:36:07.118+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:36:07.117+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:36:07.123+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-11-20T15:36:07.129+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:36:07.129+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:36:07.139+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:36:07.139+0300] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-11-20T15:36:07.158+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.049 seconds

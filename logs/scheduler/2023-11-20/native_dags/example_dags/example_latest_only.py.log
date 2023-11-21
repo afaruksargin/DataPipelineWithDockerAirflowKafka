@@ -1,0 +1,49 @@
+[2023-11-20T15:20:40.020+0300] {processor.py:157} INFO - Started process (PID=34694) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:20:40.021+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-11-20T15:20:40.022+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:40.022+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:20:40.031+0300] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:20:40.047+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:40.047+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:20:40.064+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:40.064+0300] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-11-20T08:20:40.063853+00:00, run_after=2023-11-20T12:20:40.063853+00:00
+[2023-11-20T15:20:40.099+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.082 seconds
+[2023-11-20T15:21:56.871+0300] {processor.py:157} INFO - Started process (PID=36076) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:21:56.872+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-11-20T15:21:56.873+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:56.873+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:21:56.878+0300] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:21:56.893+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:56.893+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:21:56.911+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:56.911+0300] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-11-20T08:21:56.910889+00:00, run_after=2023-11-20T12:21:56.910889+00:00
+[2023-11-20T15:21:56.928+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.059 seconds
+[2023-11-20T15:22:45.940+0300] {processor.py:157} INFO - Started process (PID=36525) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:22:45.942+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-11-20T15:22:45.943+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:45.942+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:22:45.949+0300] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:22:45.966+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:45.966+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:22:45.987+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:45.987+0300] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-11-20T08:22:45.987286+00:00, run_after=2023-11-20T12:22:45.987286+00:00
+[2023-11-20T15:22:46.006+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.069 seconds
+[2023-11-20T15:23:36.202+0300] {processor.py:157} INFO - Started process (PID=36960) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:23:36.205+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-11-20T15:23:36.208+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:36.207+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:23:36.221+0300] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:23:36.240+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:36.240+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:23:36.260+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:36.260+0300] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-11-20T08:23:36.259969+00:00, run_after=2023-11-20T12:23:36.259969+00:00
+[2023-11-20T15:23:36.280+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.085 seconds
+[2023-11-20T15:24:26.901+0300] {processor.py:157} INFO - Started process (PID=37634) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:24:26.903+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-11-20T15:24:26.904+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:26.904+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:24:26.911+0300] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:24:26.930+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:26.929+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:24:26.952+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:26.952+0300] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-11-20T08:24:26.951905+00:00, run_after=2023-11-20T12:24:26.951905+00:00
+[2023-11-20T15:24:26.980+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.086 seconds
+[2023-11-20T15:27:48.983+0300] {processor.py:157} INFO - Started process (PID=5109) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:27:48.987+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-11-20T15:27:48.990+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:48.989+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:27:49.003+0300] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:27:49.021+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:49.021+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:27:49.037+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:49.037+0300] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-11-20T08:27:49.037441+00:00, run_after=2023-11-20T12:27:49.037441+00:00
+[2023-11-20T15:27:49.064+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.089 seconds
+[2023-11-20T15:28:36.790+0300] {processor.py:157} INFO - Started process (PID=5432) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:28:36.792+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-11-20T15:28:36.794+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:36.793+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:28:36.807+0300] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2023-11-20T15:28:36.832+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:36.831+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:28:36.848+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:36.848+0300] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-11-20T08:28:36.848072+00:00, run_after=2023-11-20T12:28:36.848072+00:00
+[2023-11-20T15:28:36.865+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.077 seconds

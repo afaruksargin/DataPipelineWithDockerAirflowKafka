@@ -1,0 +1,56 @@
+[2023-11-20T15:20:21.679+0300] {processor.py:157} INFO - Started process (PID=34556) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:20:21.680+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-11-20T15:20:21.682+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:21.681+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:20:21.699+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:20:21.720+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:21.720+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:20:21.732+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:21.732+0300] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-11-20T15:20:21.752+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.078 seconds
+[2023-11-20T15:21:08.352+0300] {processor.py:157} INFO - Started process (PID=35049) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:21:08.354+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-11-20T15:21:08.355+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:08.354+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:21:08.365+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:21:08.384+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:08.383+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:21:08.392+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:08.392+0300] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-11-20T15:21:08.413+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.063 seconds
+[2023-11-20T15:21:39.488+0300] {processor.py:157} INFO - Started process (PID=35960) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:21:39.490+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-11-20T15:21:39.490+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:39.490+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:21:39.499+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:21:39.505+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:39.504+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:21:39.515+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:39.515+0300] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-11-20T15:21:39.533+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-11-20T15:22:25.065+0300] {processor.py:157} INFO - Started process (PID=36407) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:22:25.068+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-11-20T15:22:25.071+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:25.070+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:22:25.094+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:22:25.118+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:25.118+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:22:25.127+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:25.127+0300] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-11-20T15:22:25.148+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2023-11-20T15:23:14.306+0300] {processor.py:157} INFO - Started process (PID=36679) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:23:14.309+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-11-20T15:23:14.311+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:14.310+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:23:14.336+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:23:14.384+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:14.383+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:23:14.406+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:14.406+0300] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-11-20T15:23:14.435+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.134 seconds
+[2023-11-20T15:24:03.775+0300] {processor.py:157} INFO - Started process (PID=37256) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:24:03.778+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-11-20T15:24:03.780+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:03.779+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:24:03.800+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:24:03.825+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:03.825+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:24:03.835+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:03.835+0300] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-11-20T15:24:03.854+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.084 seconds
+[2023-11-20T15:27:31.245+0300] {processor.py:157} INFO - Started process (PID=5022) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:27:31.248+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-11-20T15:27:31.250+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:31.249+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:27:31.275+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:27:31.283+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:31.282+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:27:31.294+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:31.294+0300] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-11-20T15:27:31.312+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2023-11-20T15:28:16.728+0300] {processor.py:157} INFO - Started process (PID=5326) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:28:16.730+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-11-20T15:28:16.731+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:16.730+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:28:16.741+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2023-11-20T15:28:16.760+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:16.760+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:28:16.772+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:16.772+0300] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-11-20T15:28:16.795+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds

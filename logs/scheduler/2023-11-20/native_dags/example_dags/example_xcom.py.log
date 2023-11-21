@@ -1,0 +1,49 @@
+[2023-11-20T15:20:30.869+0300] {processor.py:157} INFO - Started process (PID=34637) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:20:30.871+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-11-20T15:20:30.874+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:30.873+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:20:30.889+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:20:30.908+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:30.907+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:20:30.925+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:30.925+0300] {dag.py:3722} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-11-20T15:20:30.944+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.083 seconds
+[2023-11-20T15:21:47.605+0300] {processor.py:157} INFO - Started process (PID=36004) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:21:47.608+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-11-20T15:21:47.609+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:47.608+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:21:47.617+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:21:47.635+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:47.634+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:21:47.651+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:47.651+0300] {dag.py:3722} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-11-20T15:21:47.668+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.066 seconds
+[2023-11-20T15:22:34.363+0300] {processor.py:157} INFO - Started process (PID=36463) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:22:34.367+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-11-20T15:22:34.368+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:34.367+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:22:34.378+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:22:34.415+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:34.415+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:22:34.446+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:34.446+0300] {dag.py:3722} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-11-20T15:22:34.498+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.146 seconds
+[2023-11-20T15:23:23.256+0300] {processor.py:157} INFO - Started process (PID=36890) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:23:23.260+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-11-20T15:23:23.263+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:23.262+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:23:23.278+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:23:23.297+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:23.297+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:23:23.313+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:23.313+0300] {dag.py:3722} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-11-20T15:23:23.332+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.083 seconds
+[2023-11-20T15:24:13.693+0300] {processor.py:157} INFO - Started process (PID=37403) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:24:13.695+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-11-20T15:24:13.696+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:13.696+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:24:13.703+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:24:13.718+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:13.718+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:24:13.733+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:13.733+0300] {dag.py:3722} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-11-20T15:24:13.752+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.062 seconds
+[2023-11-20T15:27:39.897+0300] {processor.py:157} INFO - Started process (PID=5066) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:27:39.899+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-11-20T15:27:39.900+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:39.899+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:27:39.904+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:27:39.916+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:39.916+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:27:39.930+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:39.930+0300] {dag.py:3722} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-11-20T15:27:39.948+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.052 seconds
+[2023-11-20T15:28:25.175+0300] {processor.py:157} INFO - Started process (PID=5375) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:28:25.177+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-11-20T15:28:25.178+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:25.178+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:28:25.185+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2023-11-20T15:28:25.199+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:25.199+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:28:25.217+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:25.217+0300] {dag.py:3722} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-11-20T15:28:25.236+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.063 seconds

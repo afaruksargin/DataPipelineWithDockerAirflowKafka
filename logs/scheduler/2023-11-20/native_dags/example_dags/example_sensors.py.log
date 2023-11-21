@@ -1,0 +1,70 @@
+[2023-11-20T15:20:16.819+0300] {processor.py:157} INFO - Started process (PID=34530) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:20:16.820+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-20T15:20:16.821+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:16.821+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:20:16.835+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:20:16.842+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:16.842+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:20:16.854+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:16.854+0300] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-20T15:20:16.875+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.059 seconds
+[2023-11-20T15:21:03.077+0300] {processor.py:157} INFO - Started process (PID=34969) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:21:03.079+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-20T15:21:03.080+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:03.080+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:21:03.092+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:21:03.113+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:03.112+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:21:03.125+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:03.125+0300] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-20T15:21:03.154+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.079 seconds
+[2023-11-20T15:21:34.357+0300] {processor.py:157} INFO - Started process (PID=35935) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:21:34.359+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-20T15:21:34.360+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:34.360+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:21:34.369+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:21:34.374+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:34.374+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:21:34.383+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:34.383+0300] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-20T15:21:34.408+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.053 seconds
+[2023-11-20T15:22:19.930+0300] {processor.py:157} INFO - Started process (PID=36377) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:22:19.933+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-20T15:22:19.934+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:19.934+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:22:19.946+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:22:19.975+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:19.975+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:22:19.987+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:19.987+0300] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-20T15:22:20.009+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.083 seconds
+[2023-11-20T15:23:06.623+0300] {processor.py:157} INFO - Started process (PID=36645) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:23:06.625+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-20T15:23:06.626+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:06.626+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:23:06.641+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:23:06.662+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:06.662+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:23:06.672+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:06.672+0300] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-20T15:23:06.691+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.072 seconds
+[2023-11-20T15:23:55.620+0300] {processor.py:157} INFO - Started process (PID=37207) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:23:55.622+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-20T15:23:55.622+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:55.622+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:23:55.631+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:23:55.648+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:55.648+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:23:55.658+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:55.657+0300] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-20T15:23:55.675+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.058 seconds
+[2023-11-20T15:27:27.221+0300] {processor.py:157} INFO - Started process (PID=4991) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:27:27.223+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-20T15:27:27.223+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:27.223+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:27:27.232+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:27:27.237+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:27.237+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:27:27.246+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:27.246+0300] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-20T15:27:27.264+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.045 seconds
+[2023-11-20T15:28:11.582+0300] {processor.py:157} INFO - Started process (PID=5258) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:28:11.584+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-20T15:28:11.585+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:11.585+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:28:11.593+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:28:11.609+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:11.609+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:28:11.626+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:11.625+0300] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-20T15:28:11.653+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.073 seconds
+[2023-11-20T15:28:56.749+0300] {processor.py:157} INFO - Started process (PID=5541) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:28:56.751+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-20T15:28:56.752+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:56.752+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:28:56.759+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:28:56.774+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:56.773+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:28:56.782+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:56.782+0300] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-20T15:28:56.799+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.052 seconds
+[2023-11-20T15:36:14.624+0300] {processor.py:157} INFO - Started process (PID=7048) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:36:14.626+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-11-20T15:36:14.628+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:36:14.627+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:36:14.645+0300] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py
+[2023-11-20T15:36:14.653+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:36:14.653+0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T15:36:14.664+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:36:14.664+0300] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-11-20T15:36:14.694+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_sensors.py took 0.075 seconds

@@ -1,0 +1,294 @@
+[2023-11-21T09:51:29.841+0300] {processor.py:156} INFO - Started process (PID=23574) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:51:29.843+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:51:29.844+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:51:29.844+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:51:29.867+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:51:29.879+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:51:29.879+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:51:29.893+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:51:29.893+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:51:29.893556+00:00, run_after=2023-11-21T06:51:29.893556+00:00
+[2023-11-21T09:51:29.910+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-11-21T09:52:07.753+0300] {processor.py:156} INFO - Started process (PID=23988) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:52:07.755+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:52:07.755+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:07.755+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:52:07.768+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:52:07.791+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:07.791+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:52:07.805+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:07.805+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:52:07.804855+00:00, run_after=2023-11-21T06:52:07.804855+00:00
+[2023-11-21T09:52:07.821+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.070 seconds
+[2023-11-21T09:52:44.920+0300] {processor.py:156} INFO - Started process (PID=24432) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:52:44.922+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:52:44.922+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:44.922+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:52:44.937+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:52:44.959+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:44.959+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:52:44.980+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:44.980+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:52:44.980166+00:00, run_after=2023-11-21T06:52:44.980166+00:00
+[2023-11-21T09:52:45.008+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.090 seconds
+[2023-11-21T09:53:22.911+0300] {processor.py:156} INFO - Started process (PID=24690) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:53:22.912+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:53:22.912+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:53:22.912+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:53:22.926+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:53:22.948+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:53:22.948+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:53:22.969+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:53:22.968+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:53:22.968627+00:00, run_after=2023-11-21T06:53:22.968627+00:00
+[2023-11-21T09:53:22.992+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.083 seconds
+[2023-11-21T09:54:00.803+0300] {processor.py:156} INFO - Started process (PID=24937) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:54:00.806+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:54:00.807+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:00.807+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:54:00.830+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:54:00.882+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:00.882+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:54:00.916+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:00.915+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:54:00.915182+00:00, run_after=2023-11-21T06:54:00.915182+00:00
+[2023-11-21T09:54:00.949+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.150 seconds
+[2023-11-21T09:54:36.128+0300] {processor.py:156} INFO - Started process (PID=25156) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:54:36.130+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:54:36.131+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:36.131+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:54:36.146+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:54:36.167+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:36.167+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:54:36.182+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:36.182+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:54:36.182680+00:00, run_after=2023-11-21T06:54:36.182680+00:00
+[2023-11-21T09:54:36.204+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.079 seconds
+[2023-11-21T09:55:13.604+0300] {processor.py:156} INFO - Started process (PID=25388) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:55:13.605+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:55:13.606+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:13.606+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:55:13.616+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:55:13.634+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:13.634+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:55:13.657+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:13.656+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:55:13.656682+00:00, run_after=2023-11-21T06:55:13.656682+00:00
+[2023-11-21T09:55:13.679+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2023-11-21T09:55:52.298+0300] {processor.py:156} INFO - Started process (PID=25700) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:55:52.298+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:55:52.299+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:52.299+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:55:52.309+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:55:52.326+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:52.326+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:55:52.340+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:52.340+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:55:52.340062+00:00, run_after=2023-11-21T06:55:52.340062+00:00
+[2023-11-21T09:55:52.359+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2023-11-21T09:56:27.582+0300] {processor.py:156} INFO - Started process (PID=25964) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:56:27.585+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:56:27.586+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:56:27.586+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:56:27.612+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:56:27.631+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:56:27.631+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:56:27.645+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:56:27.645+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:56:27.645656+00:00, run_after=2023-11-21T06:56:27.645656+00:00
+[2023-11-21T09:56:27.664+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.089 seconds
+[2023-11-21T09:57:05.005+0300] {processor.py:156} INFO - Started process (PID=26200) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:57:05.008+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:57:05.009+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:05.009+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:57:05.036+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:57:05.056+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:05.056+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:57:05.070+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:05.070+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:57:05.070297+00:00, run_after=2023-11-21T06:57:05.070297+00:00
+[2023-11-21T09:57:05.089+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.091 seconds
+[2023-11-21T09:57:42.310+0300] {processor.py:156} INFO - Started process (PID=26433) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:57:42.312+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:57:42.313+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:42.313+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:57:42.333+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:57:42.370+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:42.369+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:57:42.401+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:42.401+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:57:42.400772+00:00, run_after=2023-11-21T06:57:42.400772+00:00
+[2023-11-21T09:57:42.430+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.123 seconds
+[2023-11-21T09:58:18.519+0300] {processor.py:156} INFO - Started process (PID=26787) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:58:18.521+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:58:18.522+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:18.522+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:58:18.543+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:58:18.572+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:18.572+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:58:18.603+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:18.602+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:58:18.602369+00:00, run_after=2023-11-21T06:58:18.602369+00:00
+[2023-11-21T09:58:18.638+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.122 seconds
+[2023-11-21T09:58:56.569+0300] {processor.py:156} INFO - Started process (PID=27251) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:58:56.572+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:58:56.574+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:56.573+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:58:56.598+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:58:56.619+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:56.618+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:58:56.633+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:56.633+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:58:56.632833+00:00, run_after=2023-11-21T06:58:56.632833+00:00
+[2023-11-21T09:58:56.657+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2023-11-21T09:59:31.952+0300] {processor.py:156} INFO - Started process (PID=27500) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:59:31.954+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T09:59:31.955+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:59:31.955+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:59:31.972+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T09:59:31.996+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:59:31.996+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:59:32.011+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:59:32.011+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T06:59:32.011018+00:00, run_after=2023-11-21T06:59:32.011018+00:00
+[2023-11-21T09:59:32.028+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.079 seconds
+[2023-11-21T10:00:08.255+0300] {processor.py:156} INFO - Started process (PID=27725) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:00:08.256+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:00:08.256+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:08.256+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:00:08.268+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:00:08.285+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:08.285+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:00:08.301+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:08.301+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:00:08.300945+00:00, run_after=2023-11-21T07:00:08.300945+00:00
+[2023-11-21T10:00:08.323+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.069 seconds
+[2023-11-21T10:00:43.182+0300] {processor.py:156} INFO - Started process (PID=27941) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:00:43.183+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:00:43.183+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:43.183+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:00:43.194+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:00:43.212+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:43.211+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:00:43.226+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:43.226+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:00:43.226553+00:00, run_after=2023-11-21T07:00:43.226553+00:00
+[2023-11-21T10:00:43.247+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds
+[2023-11-21T10:01:19.592+0300] {processor.py:156} INFO - Started process (PID=28165) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:01:19.595+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:01:19.597+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:19.596+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:01:19.620+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:01:19.640+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:19.640+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:01:19.656+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:19.656+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:01:19.656399+00:00, run_after=2023-11-21T07:01:19.656399+00:00
+[2023-11-21T10:01:19.674+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.088 seconds
+[2023-11-21T10:01:55.030+0300] {processor.py:156} INFO - Started process (PID=28442) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:01:55.034+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:01:55.035+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:55.035+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:01:55.057+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:01:55.077+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:55.077+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:01:55.092+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:55.092+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:01:55.092002+00:00, run_after=2023-11-21T07:01:55.092002+00:00
+[2023-11-21T10:01:55.119+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2023-11-21T10:02:31.890+0300] {processor.py:156} INFO - Started process (PID=28664) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:02:31.890+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:02:31.891+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:02:31.891+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:02:31.902+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:02:31.920+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:02:31.920+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:02:31.934+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:02:31.934+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:02:31.934322+00:00, run_after=2023-11-21T07:02:31.934322+00:00
+[2023-11-21T10:02:31.951+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2023-11-21T10:05:02.263+0300] {processor.py:156} INFO - Started process (PID=29978) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:05:02.265+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:05:02.266+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:02.265+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:05:02.276+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:05:02.287+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:02.287+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:05:02.302+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:02.302+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:05:02.302095+00:00, run_after=2023-11-21T07:05:02.302095+00:00
+[2023-11-21T10:05:02.327+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2023-11-21T10:05:39.088+0300] {processor.py:156} INFO - Started process (PID=30329) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:05:39.090+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:05:39.092+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:39.092+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:05:39.124+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:05:39.171+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:39.171+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:05:39.227+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:39.227+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:05:39.226523+00:00, run_after=2023-11-21T07:05:39.226523+00:00
+[2023-11-21T10:05:39.279+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.193 seconds
+[2023-11-21T10:06:17.873+0300] {processor.py:156} INFO - Started process (PID=30624) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:06:17.876+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:06:17.878+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:17.878+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:06:17.905+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:06:17.927+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:17.927+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:06:17.945+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:17.944+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:06:17.944684+00:00, run_after=2023-11-21T07:06:17.944684+00:00
+[2023-11-21T10:06:17.963+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2023-11-21T10:06:54.160+0300] {processor.py:156} INFO - Started process (PID=30882) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:06:54.162+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:06:54.162+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:54.162+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:06:54.174+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:06:54.202+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:54.202+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:06:54.233+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:54.233+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:06:54.233494+00:00, run_after=2023-11-21T07:06:54.233494+00:00
+[2023-11-21T10:06:54.255+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2023-11-21T10:07:33.495+0300] {processor.py:156} INFO - Started process (PID=31120) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:07:33.497+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:07:33.498+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:33.498+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:07:33.510+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:07:33.533+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:33.532+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:07:33.551+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:33.550+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:07:33.550759+00:00, run_after=2023-11-21T07:07:33.550759+00:00
+[2023-11-21T10:07:33.572+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.079 seconds
+[2023-11-21T10:08:11.346+0300] {processor.py:156} INFO - Started process (PID=31365) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:08:11.348+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:08:11.348+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:11.348+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:08:11.360+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:08:11.383+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:11.382+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:08:11.401+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:11.401+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:08:11.401221+00:00, run_after=2023-11-21T07:08:11.401221+00:00
+[2023-11-21T10:08:11.425+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.082 seconds
+[2023-11-21T10:08:49.366+0300] {processor.py:156} INFO - Started process (PID=31616) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:08:49.369+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:08:49.369+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:49.369+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:08:49.388+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:08:49.415+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:49.415+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:08:49.439+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:49.438+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:08:49.438496+00:00, run_after=2023-11-21T07:08:49.438496+00:00
+[2023-11-21T10:08:49.462+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.099 seconds
+[2023-11-21T10:09:29.878+0300] {processor.py:156} INFO - Started process (PID=32027) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:09:29.881+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:09:29.883+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:09:29.883+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:09:29.910+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:09:29.957+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:09:29.957+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:09:29.989+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:09:29.989+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:09:29.988855+00:00, run_after=2023-11-21T07:09:29.988855+00:00
+[2023-11-21T10:09:30.015+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.142 seconds
+[2023-11-21T10:10:10.353+0300] {processor.py:156} INFO - Started process (PID=32607) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:10:10.354+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:10:10.354+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:10.354+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:10:10.364+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:10:10.384+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:10.383+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:10:10.405+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:10.405+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:10:10.404959+00:00, run_after=2023-11-21T07:10:10.404959+00:00
+[2023-11-21T10:10:10.441+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.091 seconds
+[2023-11-21T10:11:00.153+0300] {processor.py:156} INFO - Started process (PID=33278) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:11:00.155+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:11:00.156+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:00.156+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:11:00.179+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:11:00.201+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:00.201+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:11:00.216+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:00.216+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:11:00.216028+00:00, run_after=2023-11-21T07:11:00.216028+00:00
+[2023-11-21T10:11:00.241+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.091 seconds
+[2023-11-21T10:11:39.410+0300] {processor.py:156} INFO - Started process (PID=33556) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:11:39.413+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:11:39.414+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:39.414+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:11:39.446+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:11:39.478+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:39.478+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:11:39.523+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:39.522+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:11:39.521221+00:00, run_after=2023-11-21T07:11:39.521221+00:00
+[2023-11-21T10:11:39.555+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.151 seconds
+[2023-11-21T10:12:17.545+0300] {processor.py:156} INFO - Started process (PID=33785) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:12:17.546+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:12:17.546+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:17.546+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:12:17.557+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:12:17.575+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:17.575+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:12:17.589+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:17.589+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:12:17.588875+00:00, run_after=2023-11-21T07:12:17.588875+00:00
+[2023-11-21T10:12:17.606+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2023-11-21T10:12:55.447+0300] {processor.py:156} INFO - Started process (PID=34018) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:12:55.451+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:12:55.452+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:55.452+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:12:55.472+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:12:55.494+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:55.494+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:12:55.522+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:55.521+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:12:55.521695+00:00, run_after=2023-11-21T07:12:55.521695+00:00
+[2023-11-21T10:12:55.555+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.114 seconds
+[2023-11-21T10:13:33.136+0300] {processor.py:156} INFO - Started process (PID=34332) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:13:33.137+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:13:33.138+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:33.138+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:13:33.152+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:13:33.176+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:33.176+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:13:33.195+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:33.194+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:13:33.194770+00:00, run_after=2023-11-21T07:13:33.194770+00:00
+[2023-11-21T10:13:33.221+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.088 seconds
+[2023-11-21T10:14:26.534+0300] {processor.py:156} INFO - Started process (PID=35093) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:14:26.536+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:14:26.538+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:26.538+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:14:26.570+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:14:26.591+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:26.591+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:14:26.606+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:26.606+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:14:26.605878+00:00, run_after=2023-11-21T07:14:26.605878+00:00
+[2023-11-21T10:14:26.634+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.102 seconds
+[2023-11-21T10:15:03.610+0300] {processor.py:156} INFO - Started process (PID=35472) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:15:03.612+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:15:03.614+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:03.613+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:15:03.628+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:15:03.654+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:03.654+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:15:03.677+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:03.677+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:15:03.677122+00:00, run_after=2023-11-21T07:15:03.677122+00:00
+[2023-11-21T10:15:03.703+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2023-11-21T10:15:40.073+0300] {processor.py:156} INFO - Started process (PID=35724) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:15:40.076+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:15:40.076+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:40.076+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:15:40.089+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:15:40.110+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:40.110+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:15:40.124+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:40.124+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:15:40.124617+00:00, run_after=2023-11-21T07:15:40.124617+00:00
+[2023-11-21T10:15:40.150+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds
+[2023-11-21T10:16:18.154+0300] {processor.py:156} INFO - Started process (PID=35965) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:16:18.158+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:16:18.160+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:18.159+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:16:18.182+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:16:18.202+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:18.202+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:16:18.216+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:18.216+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:16:18.216483+00:00, run_after=2023-11-21T07:16:18.216483+00:00
+[2023-11-21T10:16:18.233+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2023-11-21T10:16:55.969+0300] {processor.py:156} INFO - Started process (PID=36212) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:16:55.971+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:16:55.972+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:55.972+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:16:55.984+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:16:56.003+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:56.003+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:16:56.018+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:56.017+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:16:56.017777+00:00, run_after=2023-11-21T07:16:56.017777+00:00
+[2023-11-21T10:16:56.035+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds
+[2023-11-21T10:17:33.396+0300] {processor.py:156} INFO - Started process (PID=36484) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:17:33.400+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:17:33.402+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:33.401+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:17:33.428+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:17:33.452+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:33.452+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:17:33.471+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:33.471+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:17:33.470897+00:00, run_after=2023-11-21T07:17:33.470897+00:00
+[2023-11-21T10:17:33.497+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2023-11-21T10:18:10.762+0300] {processor.py:156} INFO - Started process (PID=36747) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:18:10.765+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:18:10.766+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:10.766+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:18:10.791+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:18:10.811+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:10.810+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:18:10.825+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:10.824+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:18:10.824708+00:00, run_after=2023-11-21T07:18:10.824708+00:00
+[2023-11-21T10:18:10.843+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.087 seconds
+[2023-11-21T10:18:49.249+0300] {processor.py:156} INFO - Started process (PID=36999) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:18:49.251+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:18:49.253+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:49.252+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:18:49.284+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:18:49.308+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:49.308+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:18:49.323+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:49.323+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:18:49.323510+00:00, run_after=2023-11-21T07:18:49.323510+00:00
+[2023-11-21T10:18:49.341+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.094 seconds
+[2023-11-21T10:19:27.824+0300] {processor.py:156} INFO - Started process (PID=37247) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:19:27.826+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-21T10:19:27.827+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:27.827+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:19:27.844+0300] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2023-11-21T10:19:27.867+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:27.867+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:19:27.882+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:27.882+0300] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-11-20T07:19:27.882284+00:00, run_after=2023-11-21T07:19:27.882284+00:00
+[2023-11-21T10:19:27.899+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds

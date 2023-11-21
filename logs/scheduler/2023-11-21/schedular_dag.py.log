@@ -1,0 +1,188 @@
+[2023-11-21T10:04:52.660+0300] {processor.py:156} INFO - Started process (PID=29808) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:04:52.661+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:04:52.663+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:04:52.662+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:04:53.136+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:04:53.135+0300] {dagbag.py:330} ERROR - Failed to import: /home/user/Masaüstü/kafka/dags/schedular_dag.py
+Traceback (most recent call last):
+  File "/home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/user/Masaüstü/kafka/dags/schedular_dag.py", line 12, in <module>
+    from public_script.producer import main
+ModuleNotFoundError: No module named 'public_script'
+[2023-11-21T10:04:53.136+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:04:53.149+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.499 seconds
+[2023-11-21T10:05:29.802+0300] {processor.py:156} INFO - Started process (PID=30191) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:05:29.803+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:05:29.804+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:29.803+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:05:29.808+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:29.807+0300] {dagbag.py:330} ERROR - Failed to import: /home/user/Masaüstü/kafka/dags/schedular_dag.py
+Traceback (most recent call last):
+  File "/home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 326, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/user/Masaüstü/kafka/dags/schedular_dag.py", line 10, in <module>
+    from staging_script.producer import main
+ModuleNotFoundError: No module named 'staging_script'
+[2023-11-21T10:05:29.808+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:05:29.822+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.021 seconds
+[2023-11-21T10:06:09.481+0300] {processor.py:156} INFO - Started process (PID=30572) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:06:09.482+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:06:09.484+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:09.483+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:06:09.826+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:06:09.836+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.359 seconds
+[2023-11-21T10:06:47.047+0300] {processor.py:156} INFO - Started process (PID=30806) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:06:47.049+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:06:47.051+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:47.050+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:06:47.420+0300] {processor.py:768} INFO - DAG(s) dict_keys(['APIToDBDags']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:06:47.542+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:47.542+0300] {manager.py:507} INFO - Created Permission View: can read on DAG:APIToDBDags
+[2023-11-21T10:06:47.553+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:47.553+0300] {manager.py:507} INFO - Created Permission View: can delete on DAG:APIToDBDags
+[2023-11-21T10:06:47.562+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:47.562+0300] {manager.py:507} INFO - Created Permission View: can edit on DAG:APIToDBDags
+[2023-11-21T10:06:47.562+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:47.562+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:06:47.570+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:47.570+0300] {dag.py:2594} INFO - Creating ORM DAG for APIToDBDags
+[2023-11-21T10:06:47.579+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:47.579+0300] {dag.py:3324} INFO - Setting next_dagrun for APIToDBDags to 2023-11-20T00:00:00+00:00, run_after=2023-11-21T00:00:00+00:00
+[2023-11-21T10:06:47.606+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.565 seconds
+[2023-11-21T10:07:24.159+0300] {processor.py:156} INFO - Started process (PID=31056) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:07:24.161+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:07:24.161+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:24.161+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:07:24.453+0300] {processor.py:768} INFO - DAG(s) dict_keys(['APIToDBDags']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:07:24.466+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:24.465+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:07:24.480+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:24.480+0300] {dag.py:3324} INFO - Setting next_dagrun for APIToDBDags to 2023-11-20T00:00:00+00:00, run_after=2023-11-21T00:00:00+00:00
+[2023-11-21T10:07:24.564+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.407 seconds
+[2023-11-21T10:08:02.320+0300] {processor.py:156} INFO - Started process (PID=31295) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:08:02.322+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:08:02.323+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:02.323+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:08:02.656+0300] {processor.py:768} INFO - DAG(s) dict_keys(['APIToDBDags']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:08:02.678+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:02.677+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:08:02.699+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:02.699+0300] {dag.py:3324} INFO - Setting next_dagrun for APIToDBDags to 2023-11-20T00:00:00+00:00, run_after=2023-11-21T00:00:00+00:00
+[2023-11-21T10:08:02.727+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.411 seconds
+[2023-11-21T10:08:40.613+0300] {processor.py:156} INFO - Started process (PID=31560) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:08:40.616+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:08:40.618+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:40.618+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:08:40.962+0300] {processor.py:768} INFO - DAG(s) dict_keys(['APIToDBDags']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:08:40.973+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:40.973+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:08:40.987+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:40.987+0300] {dag.py:3324} INFO - Setting next_dagrun for APIToDBDags to 2023-11-20T00:00:00+00:00, run_after=2023-11-21T00:00:00+00:00
+[2023-11-21T10:08:41.006+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.401 seconds
+[2023-11-21T10:09:19.382+0300] {processor.py:156} INFO - Started process (PID=31860) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:09:19.386+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:09:19.388+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:09:19.387+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:09:19.880+0300] {processor.py:768} INFO - DAG(s) dict_keys(['APIToDBDags']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:09:19.914+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:09:19.914+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:09:19.927+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:09:19.927+0300] {dag.py:3324} INFO - Setting next_dagrun for APIToDBDags to 2023-11-20T00:00:00+00:00, run_after=2023-11-21T00:00:00+00:00
+[2023-11-21T10:09:19.945+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.571 seconds
+[2023-11-21T10:10:01.271+0300] {processor.py:156} INFO - Started process (PID=32499) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:10:01.273+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:10:01.274+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:01.274+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:10:01.641+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:10:01.764+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:01.764+0300] {manager.py:507} INFO - Created Permission View: can read on DAG:kafka
+[2023-11-21T10:10:01.779+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:01.779+0300] {manager.py:507} INFO - Created Permission View: can delete on DAG:kafka
+[2023-11-21T10:10:01.795+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:01.795+0300] {manager.py:507} INFO - Created Permission View: can edit on DAG:kafka
+[2023-11-21T10:10:01.795+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:01.795+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:10:01.813+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:01.813+0300] {dag.py:2594} INFO - Creating ORM DAG for kafka
+[2023-11-21T10:10:01.821+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:01.821+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-20T00:00:00+00:00, run_after=2023-11-21T00:00:00+00:00
+[2023-11-21T10:10:01.842+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.573 seconds
+[2023-11-21T10:10:53.198+0300] {processor.py:156} INFO - Started process (PID=33227) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:10:53.198+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:10:53.199+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:53.199+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:10:53.460+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:10:53.473+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:53.473+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:10:53.488+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:53.487+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:10:53.509+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.313 seconds
+[2023-11-21T10:11:30.954+0300] {processor.py:156} INFO - Started process (PID=33489) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:11:30.958+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:11:30.959+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:30.959+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:11:31.491+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:11:31.554+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:31.554+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:11:31.629+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:31.628+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:11:31.689+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.741 seconds
+[2023-11-21T10:12:08.221+0300] {processor.py:156} INFO - Started process (PID=33726) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:12:08.224+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:12:08.226+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:08.226+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:12:08.709+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:12:08.742+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:08.740+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:12:08.776+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:08.776+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:12:08.801+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.587 seconds
+[2023-11-21T10:12:46.973+0300] {processor.py:156} INFO - Started process (PID=33955) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:12:46.974+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:12:46.974+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:46.974+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:12:47.248+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:12:47.262+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:47.262+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:12:47.278+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:47.278+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:12:47.295+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.324 seconds
+[2023-11-21T10:13:25.095+0300] {processor.py:156} INFO - Started process (PID=34221) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:13:25.097+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:13:25.098+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:25.098+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:13:25.512+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:13:25.535+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:25.534+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:13:25.573+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:25.572+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:13:25.610+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.517 seconds
+[2023-11-21T10:14:16.973+0300] {processor.py:156} INFO - Started process (PID=34983) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:14:16.975+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:14:16.976+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:16.975+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:14:17.342+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:14:17.364+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:17.363+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:14:17.382+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:17.382+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:14:17.402+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.431 seconds
+[2023-11-21T10:14:54.673+0300] {processor.py:156} INFO - Started process (PID=35384) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:14:54.675+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:14:54.675+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:54.675+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:14:55.060+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:14:55.076+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:55.075+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:14:55.091+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:55.091+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:14:55.111+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.440 seconds
+[2023-11-21T10:15:32.267+0300] {processor.py:156} INFO - Started process (PID=35667) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:15:32.269+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:15:32.269+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:32.269+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:15:32.517+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:15:32.531+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:32.531+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:15:32.545+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:32.545+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:15:32.569+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.304 seconds
+[2023-11-21T10:16:09.465+0300] {processor.py:156} INFO - Started process (PID=35907) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:16:09.468+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:16:09.469+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:09.469+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:16:09.803+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:16:09.818+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:09.818+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:16:09.834+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:09.834+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:16:09.850+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.389 seconds
+[2023-11-21T10:16:47.840+0300] {processor.py:156} INFO - Started process (PID=36153) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:16:47.842+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:16:47.843+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:47.843+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:16:48.110+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:16:48.124+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:48.123+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:16:48.138+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:48.138+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:16:48.164+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.327 seconds
+[2023-11-21T10:17:24.225+0300] {processor.py:156} INFO - Started process (PID=36425) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:17:24.227+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:17:24.228+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:24.228+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:17:24.488+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:17:24.503+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:24.503+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:17:24.518+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:24.518+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:17:24.536+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.313 seconds
+[2023-11-21T10:18:01.527+0300] {processor.py:156} INFO - Started process (PID=36673) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:18:01.528+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:18:01.529+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:01.529+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:18:01.810+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:18:01.826+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:01.825+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:18:01.840+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:01.840+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:18:01.858+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.338 seconds
+[2023-11-21T10:18:41.069+0300] {processor.py:156} INFO - Started process (PID=36944) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:18:41.073+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:18:41.074+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:41.074+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:18:41.362+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:18:41.377+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:41.376+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:18:41.391+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:41.391+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:18:41.409+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.347 seconds
+[2023-11-21T10:19:19.471+0300] {processor.py:156} INFO - Started process (PID=37184) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:19:19.474+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:19:19.476+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:19.475+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:19:19.772+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:19:19.792+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:19.792+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:19:19.807+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:19.807+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:19:19.827+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.363 seconds
+[2023-11-21T10:19:58.859+0300] {processor.py:156} INFO - Started process (PID=37562) to work on /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:19:58.862+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/dags/schedular_dag.py for tasks to queue
+[2023-11-21T10:19:58.864+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:58.863+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:19:59.161+0300] {processor.py:768} INFO - DAG(s) dict_keys(['kafka']) retrieved from /home/user/Masaüstü/kafka/dags/schedular_dag.py
+[2023-11-21T10:19:59.175+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:59.175+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:19:59.190+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:59.190+0300] {dag.py:3324} INFO - Setting next_dagrun for kafka to 2023-11-21T00:00:00+00:00, run_after=2023-11-22T00:00:00+00:00
+[2023-11-21T10:19:59.283+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/dags/schedular_dag.py took 0.431 seconds

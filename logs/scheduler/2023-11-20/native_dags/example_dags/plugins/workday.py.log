@@ -1,0 +1,65 @@
+[2023-11-20T15:20:00.131+0300] {processor.py:157} INFO - Started process (PID=33956) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:20:00.134+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:20:00.138+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:00.137+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:20:00.823+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:20:00.854+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.729 seconds
+[2023-11-20T15:20:48.233+0300] {processor.py:157} INFO - Started process (PID=34737) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:20:48.234+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:20:48.234+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:20:48.234+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:20:48.501+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:20:48.508+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.278 seconds
+[2023-11-20T15:21:18.243+0300] {processor.py:157} INFO - Started process (PID=35536) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:21:18.246+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:21:18.248+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:21:18.247+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:21:18.485+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:21:18.491+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.256 seconds
+[2023-11-20T15:22:05.674+0300] {processor.py:157} INFO - Started process (PID=36137) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:22:05.678+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:22:05.682+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:05.680+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:22:05.977+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:22:05.985+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.319 seconds
+[2023-11-20T15:22:51.012+0300] {processor.py:157} INFO - Started process (PID=36556) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:22:51.015+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:22:51.018+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:22:51.017+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:22:51.260+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:22:51.268+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.264 seconds
+[2023-11-20T15:23:24.409+0300] {processor.py:157} INFO - Started process (PID=36896) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:23:24.413+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:23:24.417+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:24.415+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:23:24.676+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:23:24.684+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.282 seconds
+[2023-11-20T15:23:58.996+0300] {processor.py:157} INFO - Started process (PID=37226) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:23:58.999+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:23:59.002+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:23:59.001+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:23:59.312+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:23:59.322+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.333 seconds
+[2023-11-20T15:24:32.913+0300] {processor.py:157} INFO - Started process (PID=37665) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:24:32.916+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:24:32.919+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:32.918+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:24:33.218+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:24:33.225+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.321 seconds
+[2023-11-20T15:24:50.659+0300] {processor.py:157} INFO - Started process (PID=38238) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:24:50.662+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:24:50.665+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:24:50.664+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:24:50.945+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:24:50.954+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.302 seconds
+[2023-11-20T15:27:12.000+0300] {processor.py:157} INFO - Started process (PID=4607) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:27:12.001+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:27:12.002+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:12.001+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:27:12.427+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:27:12.443+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.444 seconds
+[2023-11-20T15:27:57.091+0300] {processor.py:157} INFO - Started process (PID=5153) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:27:57.093+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:27:57.094+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:27:57.093+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:27:57.303+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:27:57.309+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.220 seconds
+[2023-11-20T15:28:41.908+0300] {processor.py:157} INFO - Started process (PID=5464) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:28:41.909+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:28:41.909+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:28:41.909+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:28:42.113+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:28:42.119+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.213 seconds
+[2023-11-20T15:35:59.338+0300] {processor.py:157} INFO - Started process (PID=6735) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:35:59.340+0300] {processor.py:829} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T15:35:59.340+0300] {logging_mixin.py:154} INFO - [2023-11-20T15:35:59.340+0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:35:59.574+0300] {processor.py:841} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T15:35:59.580+0300] {processor.py:179} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.244 seconds

@@ -1,0 +1,294 @@
+[2023-11-21T09:51:35.386+0300] {processor.py:156} INFO - Started process (PID=23669) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:51:35.387+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:51:35.387+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:51:35.387+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:51:35.407+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:51:35.416+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:51:35.415+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:51:35.430+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:51:35.430+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:51:35.448+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.063 seconds
+[2023-11-21T09:52:14.174+0300] {processor.py:156} INFO - Started process (PID=24049) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:52:14.176+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:52:14.177+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:14.176+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:52:14.201+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:52:14.218+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:14.218+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:52:14.232+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:14.232+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:52:14.249+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.078 seconds
+[2023-11-21T09:52:51.341+0300] {processor.py:156} INFO - Started process (PID=24479) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:52:51.343+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:52:51.344+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:51.344+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:52:51.376+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:52:51.400+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:51.400+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:52:51.425+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:51.425+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:52:51.456+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.118 seconds
+[2023-11-21T09:53:29.491+0300] {processor.py:156} INFO - Started process (PID=24740) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:53:29.494+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:53:29.496+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:53:29.495+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:53:29.533+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:53:29.555+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:53:29.555+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:53:29.574+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:53:29.574+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:53:29.593+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.107 seconds
+[2023-11-21T09:54:06.223+0300] {processor.py:156} INFO - Started process (PID=24971) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:54:06.227+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:54:06.228+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:06.228+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:54:06.266+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:54:06.285+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:06.284+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:54:06.299+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:06.299+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:54:06.324+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.107 seconds
+[2023-11-21T09:54:42.563+0300] {processor.py:156} INFO - Started process (PID=25194) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:54:42.565+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:54:42.567+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:42.566+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:54:42.604+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:54:42.625+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:42.625+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:54:42.640+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:42.640+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:54:42.658+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.102 seconds
+[2023-11-21T09:55:19.966+0300] {processor.py:156} INFO - Started process (PID=25421) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:55:19.969+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:55:19.970+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:19.970+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:55:20.007+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:55:20.026+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:20.025+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:55:20.040+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:20.040+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:55:20.065+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.106 seconds
+[2023-11-21T09:55:57.017+0300] {processor.py:156} INFO - Started process (PID=25728) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:55:57.019+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:55:57.020+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:57.020+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:55:57.043+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:55:57.065+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:57.065+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:55:57.086+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:57.086+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:55:57.106+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.091 seconds
+[2023-11-21T09:56:33.883+0300] {processor.py:156} INFO - Started process (PID=26001) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:56:33.886+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:56:33.888+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:56:33.887+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:56:33.921+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:56:33.939+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:56:33.939+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:56:33.955+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:56:33.955+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:56:33.973+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.096 seconds
+[2023-11-21T09:57:11.395+0300] {processor.py:156} INFO - Started process (PID=26235) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:57:11.399+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:57:11.401+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:11.400+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:57:11.435+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:57:11.456+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:11.456+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:57:11.471+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:11.471+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:57:11.489+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.100 seconds
+[2023-11-21T09:57:48.007+0300] {processor.py:156} INFO - Started process (PID=26472) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:57:48.009+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:57:48.009+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:48.009+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:57:48.028+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:57:48.046+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:48.046+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:57:48.060+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:48.060+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:57:48.087+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.082 seconds
+[2023-11-21T09:58:24.592+0300] {processor.py:156} INFO - Started process (PID=26847) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:58:24.593+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:58:24.593+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:24.593+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:58:24.618+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:58:24.651+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:24.651+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:58:24.675+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:24.675+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:58:24.702+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.112 seconds
+[2023-11-21T09:59:02.386+0300] {processor.py:156} INFO - Started process (PID=27301) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:59:02.388+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:59:02.389+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:59:02.389+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:59:02.425+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:59:02.450+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:59:02.450+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:59:02.468+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:59:02.468+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:59:02.510+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.128 seconds
+[2023-11-21T09:59:38.353+0300] {processor.py:156} INFO - Started process (PID=27536) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:59:38.355+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T09:59:38.355+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:59:38.355+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:59:38.378+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T09:59:38.397+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:59:38.396+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T09:59:38.412+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:59:38.412+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T09:59:38.430+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.079 seconds
+[2023-11-21T10:00:13.422+0300] {processor.py:156} INFO - Started process (PID=27758) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:00:13.423+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:00:13.423+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:13.423+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:00:13.442+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:00:13.460+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:13.460+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:00:13.477+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:13.477+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:00:13.507+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.087 seconds
+[2023-11-21T10:00:49.516+0300] {processor.py:156} INFO - Started process (PID=27976) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:00:49.519+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:00:49.520+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:49.520+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:00:49.554+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:00:49.572+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:49.572+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:00:49.590+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:49.590+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:00:49.609+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.102 seconds
+[2023-11-21T10:01:24.671+0300] {processor.py:156} INFO - Started process (PID=28245) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:01:24.673+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:01:24.674+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:24.673+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:01:24.700+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:01:24.718+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:24.718+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:01:24.733+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:24.733+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:01:24.761+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.093 seconds
+[2023-11-21T10:02:00.959+0300] {processor.py:156} INFO - Started process (PID=28484) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:02:00.960+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:02:00.960+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:02:00.960+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:02:00.979+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:02:01.002+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:02:01.002+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:02:01.020+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:02:01.020+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:02:01.038+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.081 seconds
+[2023-11-21T10:02:37.415+0300] {processor.py:156} INFO - Started process (PID=28697) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:02:37.417+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:02:37.418+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:02:37.418+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:02:37.440+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:02:37.458+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:02:37.458+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:02:37.472+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:02:37.472+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:02:37.489+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.075 seconds
+[2023-11-21T10:05:07.402+0300] {processor.py:156} INFO - Started process (PID=30057) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:05:07.404+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:05:07.404+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:07.404+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:05:07.425+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:05:07.434+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:07.434+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:05:07.454+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:07.454+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:05:07.475+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.075 seconds
+[2023-11-21T10:05:45.691+0300] {processor.py:156} INFO - Started process (PID=30425) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:05:45.693+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:05:45.697+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:45.696+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:05:45.739+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:05:45.767+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:45.767+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:05:45.801+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:45.801+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:05:45.858+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.174 seconds
+[2023-11-21T10:06:23.473+0300] {processor.py:156} INFO - Started process (PID=30658) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:06:23.475+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:06:23.476+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:23.475+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:06:23.503+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:06:23.521+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:23.521+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:06:23.536+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:23.536+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:06:23.553+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.082 seconds
+[2023-11-21T10:07:00.501+0300] {processor.py:156} INFO - Started process (PID=30913) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:07:00.502+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:07:00.503+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:00.503+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:07:00.524+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:07:00.543+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:00.542+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:07:00.558+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:00.558+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:07:00.576+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.077 seconds
+[2023-11-21T10:07:39.796+0300] {processor.py:156} INFO - Started process (PID=31154) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:07:39.798+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:07:39.798+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:39.798+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:07:39.822+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:07:39.849+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:39.849+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:07:39.864+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:39.863+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:07:39.883+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.089 seconds
+[2023-11-21T10:08:16.716+0300] {processor.py:156} INFO - Started process (PID=31406) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:08:16.718+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:08:16.719+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:16.719+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:08:16.778+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:08:16.813+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:16.812+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:08:16.841+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:16.841+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:08:16.873+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.158 seconds
+[2023-11-21T10:08:55.785+0300] {processor.py:156} INFO - Started process (PID=31651) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:08:55.788+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:08:55.789+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:55.788+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:08:55.816+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:08:55.838+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:55.837+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:08:55.857+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:55.856+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:08:55.879+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.097 seconds
+[2023-11-21T10:09:36.890+0300] {processor.py:156} INFO - Started process (PID=32143) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:09:36.893+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:09:36.896+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:09:36.895+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:09:36.938+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:09:36.967+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:09:36.966+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:09:36.990+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:09:36.990+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:09:37.026+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.144 seconds
+[2023-11-21T10:10:27.955+0300] {processor.py:156} INFO - Started process (PID=32938) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:10:27.959+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:10:27.962+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:27.961+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:10:28.047+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:10:28.104+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:28.103+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:10:28.128+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:28.128+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:10:28.161+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.211 seconds
+[2023-11-21T10:11:06.566+0300] {processor.py:156} INFO - Started process (PID=33321) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:11:06.568+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:11:06.569+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:06.569+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:11:06.602+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:11:06.623+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:06.623+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:11:06.639+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:06.639+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:11:06.657+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.095 seconds
+[2023-11-21T10:11:45.665+0300] {processor.py:156} INFO - Started process (PID=33593) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:11:45.668+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:11:45.670+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:45.670+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:11:45.706+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:11:45.724+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:45.724+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:11:45.738+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:45.738+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:11:45.763+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.105 seconds
+[2023-11-21T10:12:23.983+0300] {processor.py:156} INFO - Started process (PID=33819) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:12:23.985+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:12:23.985+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:23.985+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:12:24.005+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:12:24.024+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:24.024+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:12:24.038+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:24.038+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:12:24.054+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.073 seconds
+[2023-11-21T10:13:01.972+0300] {processor.py:156} INFO - Started process (PID=34056) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:13:01.976+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:13:01.978+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:01.978+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:13:02.013+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:13:02.031+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:02.031+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:13:02.046+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:02.046+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:13:02.064+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.100 seconds
+[2023-11-21T10:13:39.204+0300] {processor.py:156} INFO - Started process (PID=34416) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:13:39.205+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:13:39.206+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:39.206+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:13:39.255+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:13:39.300+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:39.299+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:13:39.350+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:39.350+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:13:39.389+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.191 seconds
+[2023-11-21T10:14:32.655+0300] {processor.py:156} INFO - Started process (PID=35171) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:14:32.656+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:14:32.657+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:32.657+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:14:32.694+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:14:32.727+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:32.727+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:14:32.761+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:32.761+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:14:32.792+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.141 seconds
+[2023-11-21T10:15:08.362+0300] {processor.py:156} INFO - Started process (PID=35510) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:15:08.364+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:15:08.365+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:08.365+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:15:08.383+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:15:08.401+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:08.401+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:15:08.416+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:08.415+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:15:08.443+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.083 seconds
+[2023-11-21T10:15:45.440+0300] {processor.py:156} INFO - Started process (PID=35763) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:15:45.443+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:15:45.445+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:45.444+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:15:45.474+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:15:45.498+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:45.497+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:15:45.512+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:45.512+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:15:45.529+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.095 seconds
+[2023-11-21T10:16:24.533+0300] {processor.py:156} INFO - Started process (PID=35999) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:16:24.535+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:16:24.536+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:24.536+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:16:24.555+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:16:24.574+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:24.574+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:16:24.588+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:24.588+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:16:24.605+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.074 seconds
+[2023-11-21T10:17:02.792+0300] {processor.py:156} INFO - Started process (PID=36254) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:17:02.794+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:17:02.795+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:02.794+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:17:02.813+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:17:02.836+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:02.836+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:17:02.850+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:02.850+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:17:02.867+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.077 seconds
+[2023-11-21T10:17:39.132+0300] {processor.py:156} INFO - Started process (PID=36528) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:17:39.135+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:17:39.137+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:39.137+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:17:39.174+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:17:39.196+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:39.196+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:17:39.213+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:39.213+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:17:39.236+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.111 seconds
+[2023-11-21T10:18:16.620+0300] {processor.py:156} INFO - Started process (PID=36784) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:18:16.621+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:18:16.622+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:16.622+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:18:16.647+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:18:16.665+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:16.665+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:18:16.680+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:16.679+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:18:16.697+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.079 seconds
+[2023-11-21T10:18:55.070+0300] {processor.py:156} INFO - Started process (PID=37036) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:18:55.073+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:18:55.075+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:55.075+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:18:55.110+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:18:55.128+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:55.128+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:18:55.145+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:55.145+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:18:55.173+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.110 seconds
+[2023-11-21T10:19:34.513+0300] {processor.py:156} INFO - Started process (PID=37286) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:19:34.516+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-21T10:19:34.519+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:34.518+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:19:34.569+0300] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-21T10:19:34.588+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:34.588+0300] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-11-21T10:19:34.602+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:34.602+0300] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-21T10:19:34.620+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.113 seconds

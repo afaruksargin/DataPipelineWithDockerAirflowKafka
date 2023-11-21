@@ -1,0 +1,210 @@
+[2023-11-21T09:51:30.409+0300] {processor.py:156} INFO - Started process (PID=23586) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:51:30.411+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:51:30.413+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:51:30.412+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:51:30.421+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:51:30.435+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds
+[2023-11-21T09:52:08.903+0300] {processor.py:156} INFO - Started process (PID=23995) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:52:08.905+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:52:08.907+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:08.907+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:52:08.916+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:52:08.934+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.035 seconds
+[2023-11-21T09:52:46.094+0300] {processor.py:156} INFO - Started process (PID=24437) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:52:46.095+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:52:46.096+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:52:46.096+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:52:46.107+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:52:46.120+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2023-11-21T09:53:24.070+0300] {processor.py:156} INFO - Started process (PID=24703) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:53:24.072+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:53:24.073+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:53:24.072+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:53:24.076+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:53:24.083+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-11-21T09:54:02.060+0300] {processor.py:156} INFO - Started process (PID=24943) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:54:02.062+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:54:02.063+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:02.063+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:54:02.067+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:54:02.079+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-11-21T09:54:37.260+0300] {processor.py:156} INFO - Started process (PID=25162) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:54:37.262+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:54:37.263+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:54:37.263+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:54:37.266+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:54:37.275+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2023-11-21T09:55:14.736+0300] {processor.py:156} INFO - Started process (PID=25395) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:55:14.736+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:55:14.737+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:14.737+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:55:14.739+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:55:14.744+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds
+[2023-11-21T09:55:52.672+0300] {processor.py:156} INFO - Started process (PID=25704) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:55:52.674+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:55:52.674+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:55:52.674+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:55:52.677+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:55:52.683+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-11-21T09:56:28.711+0300] {processor.py:156} INFO - Started process (PID=25971) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:56:28.714+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:56:28.714+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:56:28.714+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:56:28.718+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:56:28.727+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2023-11-21T09:57:06.259+0300] {processor.py:156} INFO - Started process (PID=26206) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:57:06.263+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:57:06.264+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:06.264+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:57:06.273+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:57:06.287+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2023-11-21T09:57:43.578+0300] {processor.py:156} INFO - Started process (PID=26443) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:57:43.579+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:57:43.580+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:57:43.580+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:57:43.583+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:57:43.594+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2023-11-21T09:58:19.776+0300] {processor.py:156} INFO - Started process (PID=26804) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:58:19.778+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:58:19.779+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:19.779+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:58:19.786+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:58:19.811+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2023-11-21T09:58:57.788+0300] {processor.py:156} INFO - Started process (PID=27259) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:58:57.790+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:58:57.790+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:58:57.790+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:58:57.793+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:58:57.801+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-11-21T09:59:33.098+0300] {processor.py:156} INFO - Started process (PID=27508) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:59:33.100+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T09:59:33.101+0300] {logging_mixin.py:117} INFO - [2023-11-21T09:59:33.101+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:59:33.105+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T09:59:33.116+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-11-21T10:00:09.419+0300] {processor.py:156} INFO - Started process (PID=27731) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:00:09.422+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:00:09.424+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:09.423+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:00:09.434+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:00:09.454+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2023-11-21T10:00:44.329+0300] {processor.py:156} INFO - Started process (PID=27949) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:00:44.331+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:00:44.331+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:00:44.331+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:00:44.334+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:00:44.341+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2023-11-21T10:01:20.699+0300] {processor.py:156} INFO - Started process (PID=28172) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:01:20.700+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:01:20.701+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:20.700+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:01:20.703+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:01:20.709+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2023-11-21T10:01:55.826+0300] {processor.py:156} INFO - Started process (PID=28449) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:01:55.828+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:01:55.829+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:01:55.829+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:01:55.835+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:01:55.850+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2023-11-21T10:02:32.268+0300] {processor.py:156} INFO - Started process (PID=28669) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:02:32.269+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:02:32.270+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:02:32.270+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:02:32.273+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:02:32.279+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-11-21T10:05:02.602+0300] {processor.py:156} INFO - Started process (PID=29983) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:05:02.605+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:05:02.608+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:02.607+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:05:02.619+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:05:02.639+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2023-11-21T10:05:40.524+0300] {processor.py:156} INFO - Started process (PID=30341) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:05:40.527+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:05:40.529+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:05:40.528+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:05:40.538+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:05:40.550+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2023-11-21T10:06:19.094+0300] {processor.py:156} INFO - Started process (PID=30630) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:06:19.095+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:06:19.095+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:19.095+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:06:19.099+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:06:19.105+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-11-21T10:06:55.394+0300] {processor.py:156} INFO - Started process (PID=30886) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:06:55.395+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:06:55.396+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:06:55.396+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:06:55.399+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:06:55.408+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2023-11-21T10:07:34.646+0300] {processor.py:156} INFO - Started process (PID=31126) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:07:34.648+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:07:34.648+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:07:34.648+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:07:34.653+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:07:34.661+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2023-11-21T10:08:11.569+0300] {processor.py:156} INFO - Started process (PID=31369) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:08:11.571+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:08:11.572+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:11.571+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:08:11.574+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:08:11.579+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-11-21T10:08:50.604+0300] {processor.py:156} INFO - Started process (PID=31624) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:08:50.607+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:08:50.608+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:08:50.607+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:08:50.612+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:08:50.627+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2023-11-21T10:09:30.265+0300] {processor.py:156} INFO - Started process (PID=32034) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:09:30.268+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:09:30.273+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:09:30.272+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:09:30.298+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:09:30.338+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.078 seconds
+[2023-11-21T10:10:11.508+0300] {processor.py:156} INFO - Started process (PID=32663) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:10:11.509+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:10:11.510+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:10:11.509+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:10:11.513+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:10:11.525+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-11-21T10:11:01.322+0300] {processor.py:156} INFO - Started process (PID=33284) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:11:01.323+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:11:01.324+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:01.324+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:11:01.327+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:11:01.335+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-11-21T10:11:40.666+0300] {processor.py:156} INFO - Started process (PID=33565) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:11:40.669+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:11:40.670+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:11:40.670+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:11:40.676+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:11:40.689+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2023-11-21T10:12:18.685+0300] {processor.py:156} INFO - Started process (PID=33791) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:12:18.687+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:12:18.688+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:18.688+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:12:18.693+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:12:18.706+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2023-11-21T10:12:56.704+0300] {processor.py:156} INFO - Started process (PID=34028) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:12:56.706+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:12:56.707+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:12:56.707+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:12:56.710+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:12:56.719+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2023-11-21T10:13:34.310+0300] {processor.py:156} INFO - Started process (PID=34340) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:13:34.313+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:13:34.319+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:13:34.317+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:13:34.328+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:13:34.351+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.053 seconds
+[2023-11-21T10:14:27.547+0300] {processor.py:156} INFO - Started process (PID=35098) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:14:27.548+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:14:27.549+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:14:27.549+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:14:27.553+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:14:27.564+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-11-21T10:15:03.968+0300] {processor.py:156} INFO - Started process (PID=35478) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:15:03.972+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:15:03.974+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:03.974+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:15:03.985+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:15:03.999+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.038 seconds
+[2023-11-21T10:15:40.277+0300] {processor.py:156} INFO - Started process (PID=35729) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:15:40.278+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:15:40.278+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:15:40.278+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:15:40.281+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:15:40.287+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-11-21T10:16:19.285+0300] {processor.py:156} INFO - Started process (PID=35970) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:16:19.287+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:16:19.288+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:19.288+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:16:19.292+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:16:19.300+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2023-11-21T10:16:57.103+0300] {processor.py:156} INFO - Started process (PID=36221) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:16:57.105+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:16:57.105+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:16:57.105+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:16:57.108+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:16:57.113+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-11-21T10:17:34.655+0300] {processor.py:156} INFO - Started process (PID=36490) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:17:34.657+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:17:34.657+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:17:34.657+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:17:34.664+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:17:34.671+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-11-21T10:18:11.454+0300] {processor.py:156} INFO - Started process (PID=36755) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:18:11.456+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:18:11.456+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:11.456+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:18:11.460+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:18:11.470+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2023-11-21T10:18:50.417+0300] {processor.py:156} INFO - Started process (PID=37008) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:18:50.420+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:18:50.421+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:18:50.421+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:18:50.429+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:18:50.444+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2023-11-21T10:19:28.961+0300] {processor.py:156} INFO - Started process (PID=37253) to work on /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:19:28.963+0300] {processor.py:758} INFO - Processing file /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-11-21T10:19:28.964+0300] {logging_mixin.py:117} INFO - [2023-11-21T10:19:28.963+0300] {dagbag.py:525} INFO - Filling up the DagBag from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:19:28.967+0300] {processor.py:770} WARNING - No viable dags retrieved from /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-11-21T10:19:28.977+0300] {processor.py:178} INFO - Processing /home/user/Masaüstü/kafka/.env/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
