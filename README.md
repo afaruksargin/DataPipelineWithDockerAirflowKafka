@@ -41,11 +41,10 @@ Bu proje, Apache Kafka, Apache Airflow ve Docker kullanarak yapılan bir sistemd
 
 5. **Veritabanı:** Kendi tercihinize göre bir veritabanı oluşturun ve bağlantı yapılandırmalarını ayarlayın.
    ```bash
-docker run --name my_postgres -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 postgres
-```
+    docker run --name my_postgres -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 postgres
+    ```
 
 ## Kullanım
 
 1. Airflow arayüzünden DAG'ı çalıştırın. Bu DAG, Kafka'dan verileri çeker ve veritabanına yazar.
 
-    ```
