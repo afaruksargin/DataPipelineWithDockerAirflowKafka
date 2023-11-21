@@ -2,7 +2,8 @@
 
 Bu proje, Apache Kafka, Apache Airflow ve Docker kullanarak yapılan bir sistemdir. CSV dosyasından veri alınarak Kafka topic'ine yazılır, daha sonra Airflow ile bu veriler bir veritabanına aktarılır. Sonrasında yıllara göre veriler ayrıştırılır, belirli bir koşulu sağlayan veriler değiştirilip başka bir tabloya aktarılır.
 
-![Pipeline](images/proje_akis.drawio.png)
+![proje_akis drawio](https://github.com/afaruksargin/DataPipelineWithDockerAirflowKafka/assets/114520791/74263d27-2f8a-4dd5-a17e-ff1ebcbf5c61)
+
 
 ## Gereksinimler
 
